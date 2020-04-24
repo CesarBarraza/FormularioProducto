@@ -1,0 +1,17 @@
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\Taller_2\CapaPresentacion\bin\Debug\capaDominio.pdb
